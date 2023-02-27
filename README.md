@@ -1,4 +1,4 @@
-#Octopus Game
+<h1 style="font-size: 60px;">Octopus Game</h1>
 
 This is a game written in Python using the Pygame library. The game involves an octopus character who must collect pieces of trash while avoiding obstacles to earn points. The game ends when the player collects a certain number of pieces of trash or when they collide with an obstacle.
 #How to Play
